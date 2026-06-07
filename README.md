@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # ✨ Pair Extraordinary ✨
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=7F5AF0&center=true&vCenter=true&random=false&width=900&lines=Welcome+to+Pair+Extraordinary;Building+Extraordinary+Things+Together;Innovation+%E2%9C%A8+Collaboration+%F0%9F%9A%80+Creativity+%F0%9F%94%A5;Crafted+by+GurmanSingh7" alt="Typing SVG" />
